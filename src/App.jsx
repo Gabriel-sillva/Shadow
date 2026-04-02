@@ -1,9 +1,9 @@
-import Mapinha from "./components/mapinha";
+import Fases from "./components/Fases"
 
 export default function App(){
 
   return(
-    <Mapinha/>
+    <Fases/>
   )
   
 } 
